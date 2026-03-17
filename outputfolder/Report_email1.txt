@@ -1,0 +1,20 @@
+================================================================================
+PROJECT: PROJECT PHOENIX
+OVERALL HEALTH STATUS: AT RISK
+Total Attention Flags Detected: 2
+================================================================================
+
+🚩 FLAG 1: Unresolved Action Item | Stakeholder Misalignment [LOW SEVERITY]
+   Status:    ❌ UNRESOLVED
+   Date:      2025-06-02
+   People:    Raised by Junior Developer ➡️ Assigned to Business Analyst (BA)
+   Summary:   The login page specification (point 3.2) omits a minimum password length requirement. The Junior Developer flagged the gap and proposed defaulting to 8 characters, consistent with other modules. No response or confirmation was provided by the BA or PM within the thread, leaving this specification detail unresolved.
+   Evidence:  "I don't see any mention of the minimum password length. Should it be 8 characters, like in other modules?"
+--------------------------------------------------------------------------------
+🚩 FLAG 2: Scope Creep | Resource Bottleneck | Timeline Delay | Stakeholder Misalignment [MEDIUM SEVERITY]
+   Status:    ❌ UNRESOLVED
+   Date:      2025-06-02
+   People:    Raised by Senior Developer ➡️ Assigned to Project Manager (PM)
+   Summary:   The login page specification included 'Google SSO' without prior client confirmation or estimation, which the Senior Developer flagged as requiring a separate library integration not covered in the original estimate — a potential sprint re-plan trigger. After a week-long delay to consult the client, the BA confirmed SSO is a 'nice to have' and can be removed from scope. However, the thread ends with an open question ('Are the other points okay?') with no final team confirmation that the descoped specification is accepted and the sprint plan is stable.
+   Evidence:  "The specification mentions 'Google SSO' as an option. Has this been confirmed with the client? Implementing this will require extra effort, as our current user management system doesn't support it natively; we'd need to pull in and configure a separate library. This wasn't included in the estimate."
+--------------------------------------------------------------------------------

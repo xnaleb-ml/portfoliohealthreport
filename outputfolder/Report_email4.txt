@@ -1,0 +1,13 @@
+================================================================================
+PROJECT: PROJECT PHOENIX
+OVERALL HEALTH STATUS: AT RISK
+Total Attention Flags Detected: 1
+================================================================================
+
+🚩 FLAG 1: Blocker | Technical Architecture Risk | Unresolved Action Item [HIGH SEVERITY]
+   Status:    ❌ UNRESOLVED
+   Date:      2025-06-09
+   People:    Raised by Frontend Developer ➡️ Assigned to Junior Developer
+   Summary:   A bug in the image upload logic causes a 404 error when uploaded filenames contain spaces. The backend renames the file, but the frontend continues to request the original space-containing filename from the API. The Junior Developer acknowledged their recent commit to filename validation logic is the likely cause — specifically that the modified filename is not being returned to the frontend — and committed to investigating immediately, but no confirmed fix or resolution has been provided as of the last message.
+   Evidence:  "it only happens if the image name contains spaces. The system renames it, but the frontend somehow requests the old, space-containing name from the API, which returns a 404. This isn't a cache issue; it's a bug in the image upload logic."
+--------------------------------------------------------------------------------

@@ -1,0 +1,20 @@
+================================================================================
+PROJECT: PAYMENT GATEWAY INTEGRATION
+OVERALL HEALTH STATUS: AT RISK
+Total Attention Flags Detected: 2
+================================================================================
+
+🚩 FLAG 1: Unresolved Action Item | Emerging Risk [MEDIUM SEVERITY]
+   Status:    ❌ UNRESOLVED
+   Date:      2025-06-19
+   People:    Raised by Business Analyst (BA) ➡️ Assigned to Unassigned
+   Summary:   The Business Analyst raised the question of API rate-limiting handling during the error message discussion — specifically, what happens if too many requests are sent to the payment gateway in a short period. Neither the Project Manager nor Developer 2 acknowledged or addressed this question in any subsequent reply. It remains completely unanswered with no owner assigned and no resolution path defined.
+   Evidence:  "By the way, have we discussed the API rate-limiting issue yet? What happens if we send too many requests in a short time? Do we need to handle this?"
+--------------------------------------------------------------------------------
+🚩 FLAG 2: Scope Creep | Technical Architecture Risk [LOW SEVERITY]
+   Status:    ✅ RESOLVED
+   Date:      2025-06-19
+   People:    Raised by Developer 2 (Medior) ➡️ Assigned to Developer 2 (Medior)
+   Summary:   The error handling behavior for TIMEOUT and INVALID_CARD gateway responses was not defined in the original specification, as explicitly noted by Developer 2. The Business Analyst verbally defined the behavior mid-thread, and the PM approved it informally via email. While the immediate implementation path is now clear, the absence of this logic from the formal specification represents an undocumented scope addition and a potential gap in the project's requirements baseline.
+   Evidence:  "I'm stuck on the payment gateway integration... what should I do if the gateway TIMEOUT or INVALID_CARD errors? I couldn't find this in the specification."
+--------------------------------------------------------------------------------

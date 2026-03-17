@@ -1,0 +1,28 @@
+From: Frontend Developer frontenddeveloper@anonymized.com
+To: Senior Developer seniordeveloper@anonymized.com, Junior Developer juniordeveloper@anonymized.com, Project Manager (PM) projectmanagerpm@anonymized.com, Business Analyst (BA) businessanalystba@anonymized.com
+Date: Mon, 30 Jun 2025 10:00:00 +0200
+Subject: RE: Project Phoenix - New Login Page Specification
+
+Hi team,
+Sorry to ask here, but I can't find the other email. [ANONYMIZED_NAME] is looking into the profile picture bug, right? Just because [ANONYMIZED_NAME] asked today about the status of JIRA-112, and this is it.
+Thanks,
+[ANONYMIZED_NAME]
+
+From: Project Manager (PM) projectmanagerpm@anonymized.com
+To: Frontend Developer frontenddeveloper@anonymized.com, Senior Developer seniordeveloper@anonymized.com, Junior Developer juniordeveloper@anonymized.com, Business Analyst (BA) businessanalystba@anonymized.com
+Date: Mon, 30 Jun 2025 10:05:00 +0200
+Subject: RE: Project Phoenix - New Login Page Specification
+
+Hi [ANONYMIZED_NAME],
+Yes, [ANONYMIZED_NAME] is looking into it, but next time please ask in the relevant ticket or its own thread, because [ANONYMIZED_NAME] surely won't understand what's going on now. :)
+Thanks,
+[ANONYMIZED_NAME]
+
+From: Business Analyst (BA) businessanalystba@anonymized.com
+To: Project Manager (PM) projectmanagerpm@anonymized.com, Frontend Developer frontenddeveloper@anonymized.com, Senior Developer seniordeveloper@anonymized.com, Junior Developer juniordeveloper@anonymized.com
+Date: Mon, 30 Jun 2025 10:10:00 +0200
+Subject: RE: Project Phoenix - New Login Page Specification
+
+Indeed, I didn't understand :) But no worries!
+Best,
+[ANONYMIZED_NAME]

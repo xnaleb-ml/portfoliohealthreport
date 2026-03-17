@@ -1,0 +1,54 @@
+Subject: Project Status - Weekly Summary
+Date: 2025.06.09 10:15
+From: Project Manager (PM) (projectmanagerpm@anonymized.com)
+To: Business Analyst (BA) (businessanalystba@anonymized.com), Project Manager (PM) (projectmanagerpm@anonymized.com), Developer 2 (Medior) (developer2medior@anonymized.com), Developer 3 (Junior) (developer3junior@anonymized.com), Account Manager (AM) (accountmanageram@anonymized.com)
+
+Hi everyone,
+A quick summary of the past week and upcoming tasks:
+The login and registration module is complete and awaiting BA testing. [ANONYMIZED_NAME], please take a look this week.
+Product list page development is in progress; [ANONYMIZED_NAME] and [ANONYMIZED_NAME] are working on this. Expected completion: end of next week.
+[ANONYMIZED_NAME], was there any feedback from the client regarding the homepage design presented last week?
+Have a good week,
+[ANONYMIZED_NAME]
+
+Subject: Re: Project Status - Weekly Summary
+Date: 2025.06.09 11:02
+From: Business Analyst (BA) (businessanalystba@anonymized.com)
+To: Project Manager (PM) (projectmanagerpm@anonymized.com), Project Manager (PM) (projectmanagerpm@anonymized.com), Developer 2 (Medior) (developer2medior@anonymized.com), Developer 3 (Junior) (developer3junior@anonymized.com), Account Manager (AM) (accountmanageram@anonymized.com)
+
+Hi [ANONYMIZED_NAME],
+Understood, I will test the login/reg module this week.
+I have a question regarding the product list page: how should we handle the "in stock" option in the filtering criteria if a product has multiple variants, and only one of them is in stock? Should the main product appear in the results?
+Thanks,
+[ANONYMIZED_NAME]
+
+Subject: Re: Project Status - Weekly Summary
+Date: 2025.06.09 11:30
+From: Project Manager (PM) (projectmanagerpm@anonymized.com)
+To: Business Analyst (BA) (businessanalystba@anonymized.com), Project Manager (PM) (projectmanagerpm@anonymized.com), Developer 2 (Medior) (developer2medior@anonymized.com), Developer 3 (Junior) (developer3junior@anonymized.com), Account Manager (AM) (accountmanageram@anonymized.com)
+
+Hi [ANONYMIZED_NAME],
+I think yes, the product should appear, and we indicate on the detailed product page which variant is available. This is the simplest logic.
+Regards,
+[ANONYMIZED_NAME]
+
+Subject: Re: Project Status - Weekly Summary
+Date: 2025.06.23 14:20
+From: Account Manager (AM) (accountmanageram@anonymized.com)
+To: Project Manager (PM) (projectmanagerpm@anonymized.com), Business Analyst (BA) (businessanalystba@anonymized.com), Project Manager (PM) (projectmanagerpm@anonymized.com), Developer 2 (Medior) (developer2medior@anonymized.com), Developer 3 (Junior) (developer3junior@anonymized.com)
+
+Hi everyone,
+Sorry for the late reply, I only just got to this email. Yes, [ANONYMIZED_NAME], the client liked the design but requested a small modification in the header. I've sent the details to [ANONYMIZED_NAME] in a separate email.
+Regards,
+Zoli
+
+Subject: Re: Project Status - Weekly Summary
+Date: 2025.06.23 14:35
+From: Project Manager (PM) (projectmanagerpm@anonymized.com)
+To: Account Manager (AM) (accountmanageram@anonymized.com), Business Analyst (BA) (businessanalystba@anonymized.com), Project Manager (PM) (projectmanagerpm@anonymized.com), Developer 2 (Medior) (developer2medior@anonymized.com), Developer 3 (Junior) (developer3junior@anonymized.com)
+
+Hi Zoli,
+Thanks for the info! [ANONYMIZED_NAME], let's add this to the backlog then.
+I'll hold a quick status meeting tomorrow morning, I'll send an invite shortly.
+Regards,
+[ANONYMIZED_NAME]

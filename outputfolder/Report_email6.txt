@@ -1,0 +1,13 @@
+================================================================================
+PROJECT: CLIENT DEMO FEEDBACK PROJECT
+OVERALL HEALTH STATUS: AT RISK
+Total Attention Flags Detected: 1
+================================================================================
+
+🚩 FLAG 1: Scope Creep | Unresolved Action Item [MEDIUM SEVERITY]
+   Status:    ❌ UNRESOLVED
+   Date:      2025-06-09
+   People:    Raised by Account Manager (AM) ➡️ Assigned to Unassigned
+   Summary:   The client introduced four UI/UX change requests following the demo — slider image optimization, Contact button resizing, footer logo hyperlinking, and login button repositioning — none of which appear to have been part of the original project scope. While the Frontend Developer and Senior Developer acknowledged three of the four items (button changes and slider optimization) with estimates, the footer logo clickability request was never explicitly acknowledged, assigned, or estimated by any team member, leaving it as an unresolved action item.
+   Evidence:  "The company logo in the footer should also be clickable and lead to the homepage, just like the one in the header. They consider this important for brand consistency."
+--------------------------------------------------------------------------------

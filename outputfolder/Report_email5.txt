@@ -1,0 +1,13 @@
+================================================================================
+PROJECT: CI/CD PIPELINE SETUP
+OVERALL HEALTH STATUS: AT RISK
+Total Attention Flags Detected: 1
+================================================================================
+
+🚩 FLAG 1: Resource Bottleneck | Unresolved Action Item | Emerging Risk [MEDIUM SEVERITY]
+   Status:    ❌ UNRESOLVED
+   Date:      2025-05-30
+   People:    Raised by Junior Developer ➡️ Assigned to Senior Developer
+   Summary:   A Junior Developer was blocked on CI/CD pipeline setup due to a missing prerequisite (manual test DB creation) not documented in the onboarding/setup guide. The question went unanswered for a full month (May 30 → June 30), requiring two follow-up escalations from the PM before the Senior Developer responded. While the immediate technical issue was resolved and the pipeline now works, the root cause — a gap in the shared documentation — remains unaddressed, as the Junior Developer only asked permission to update the docs but received no confirmation.
+   Evidence:  "the test DB needs to be created manually beforehand; the hook itself doesn't do it. The create_test_db.sh script is in the scripts folder."
+--------------------------------------------------------------------------------

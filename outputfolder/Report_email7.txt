@@ -1,0 +1,20 @@
+================================================================================
+PROJECT: PROJECT STATUS - WEEKLY SUMMARY
+OVERALL HEALTH STATUS: AT RISK
+Total Attention Flags Detected: 2
+================================================================================
+
+🚩 FLAG 1: Unresolved Action Item | Stakeholder Misalignment [MEDIUM SEVERITY]
+   Status:    ❌ UNRESOLVED
+   Date:      2025-06-09
+   People:    Raised by Project Manager (PM) ➡️ Assigned to Business Analyst (BA)
+   Summary:   The Account Manager replied 14 days late to a question about client feedback on the homepage design, creating a significant communication gap. The client approved the design but requested a header modification, the details of which were sent in a separate, non-thread email — meaning the full team lacks visibility into the exact change required. The PM has acknowledged this and instructed it be added to the backlog, but the specific modification details have not been shared with the broader team on this thread.
+   Evidence:  "the client liked the design but requested a small modification in the header. I've sent the details to [ANONYMIZED_NAME] in a separate email."
+--------------------------------------------------------------------------------
+🚩 FLAG 2: Unresolved Action Item | Scope Creep [MEDIUM SEVERITY]
+   Status:    ❌ UNRESOLVED
+   Date:      2025-06-09
+   People:    Raised by Business Analyst (BA) ➡️ Assigned to Project Manager (PM)
+   Summary:   The BA raised an unspecified edge case in the product list filtering logic: how to handle the 'in stock' filter when a product has multiple variants and only some are in stock. The PM provided a quick directional answer ('the product should appear, and we indicate on the detailed product page which variant is available'), but this decision was made unilaterally by the PM without client confirmation or formal specification. This represents an undocumented business logic decision that could conflict with client expectations and require rework.
+   Evidence:  "how should we handle the 'in stock' option in the filtering criteria if a product has multiple variants, and only one of them is in stock? Should the main product appear in the results?"
+--------------------------------------------------------------------------------

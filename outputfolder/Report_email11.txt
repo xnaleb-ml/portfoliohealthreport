@@ -1,0 +1,13 @@
+================================================================================
+PROJECT: REPORT EXPORT FEATURE
+OVERALL HEALTH STATUS: AT RISK
+Total Attention Flags Detected: 1
+================================================================================
+
+🚩 FLAG 1: Scope Creep | Unresolved Action Item [MEDIUM SEVERITY]
+   Status:    ❌ UNRESOLVED
+   Date:      2025-06-25
+   People:    Raised by Account Manager (AM) ➡️ Assigned to Project Manager (PM)
+   Summary:   The client has requested a new CSV export option for monthly reports, in addition to the existing PDF format. This feature was not part of the original scope and was forwarded by the Account Manager for potential inclusion in the next sprint. The Business Analyst confirmed technical feasibility but flagged the need for an effort assessment, and the question of whether it fits the current schedule has been directed to the Project Manager but remains unanswered.
+   Evidence:  "They would like to be able to download monthly reports not only in PDF but also in CSV format. Can we implement this in the next sprint?"
+--------------------------------------------------------------------------------

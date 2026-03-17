@@ -1,0 +1,46 @@
+Subject: URGENT: Client cannot log in!
+Date: 2025.06.30 09:01
+From: Account Manager (AM) (accountmanageram@anonymized.com)
+To: Project Manager (PM) (projectmanagerpm@anonymized.com)
+
+Hi [ANONYMIZED_NAME],
+The client just called, no one in the company has been able to log into the system since yesterday's update. Please look into it immediately, there's a lot of panic!
+Thanks,
+Zoli
+
+Subject: Re: URGENT: Client cannot log in!
+Date: 2025.06.30 09:03
+From: Project Manager (PM) (projectmanagerpm@anonymized.com)
+To: Project Manager (PM) (projectmanagerpm@anonymized.com), Developer 2 (Medior) (developer2medior@anonymized.com), Developer 3 (Junior) (developer3junior@anonymized.com)
+Cc: Account Manager (AM) (accountmanageram@anonymized.com), Business Analyst (BA) (businessanalystba@anonymized.com)
+
+Developers,
+All hands on deck! Login is not working live since yesterday's deployment. [ANONYMIZED_NAME], please investigate immediately!
+[ANONYMIZED_NAME]
+
+Subject: Re: URGENT: Client cannot log in!
+Date: 2025.06.30 09:15
+From: Project Manager (PM) (projectmanagerpm@anonymized.com)
+To: Project Manager (PM) (projectmanagerpm@anonymized.com), Developer 2 (Medior) (developer2medior@anonymized.com), Developer 3 (Junior) (developer3junior@anonymized.com)
+Cc: Account Manager (AM) (accountmanageram@anonymized.com), Business Analyst (BA) (businessanalystba@anonymized.com)
+
+Found it. The wrong environment variable was set on the production server in yesterday's deploy script. My mistake, apologies. I'm fixing it.
+[ANONYMIZED_NAME]
+
+Subject: Re: URGENT: Client cannot log in!
+Date: 2025.06.30 09:18
+From: Developer 3 (Junior) (developer3junior@anonymized.com)
+To: Project Manager (PM) (projectmanagerpm@anonymized.com), Project Manager (PM) (projectmanagerpm@anonymized.com), Developer 2 (Medior) (developer2medior@anonymized.com)
+Cc: Account Manager (AM) (accountmanageram@anonymized.com), Business Analyst (BA) (businessanalystba@anonymized.com)
+
+I have also checked the logs, the db connection string was indeed faulty. I've already pushed the fix, it should be live shortly.
+[ANONYMIZED_NAME]
+
+Subject: Re: URGENT: Client cannot log in!
+Date: 2025.06.30 09:25
+From: Project Manager (PM) (projectmanagerpm@anonymized.com)
+To: Project Manager (PM) (projectmanagerpm@anonymized.com), Developer 2 (Medior) (developer2medior@anonymized.com), Developer 3 (Junior) (developer3junior@anonymized.com)
+Cc: Account Manager (AM) (accountmanageram@anonymized.com), Business Analyst (BA) (businessanalystba@anonymized.com)
+
+Thanks [ANONYMIZED_NAME]! The fix is out, I've tested it, login is working again. Zoli, please inform the client. We apologize for the inconvenience.
+[ANONYMIZED_NAME]

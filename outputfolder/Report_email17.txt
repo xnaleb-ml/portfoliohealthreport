@@ -1,0 +1,13 @@
+================================================================================
+PROJECT: DIVATKIRÁLY
+OVERALL HEALTH STATUS: AT RISK
+Total Attention Flags Detected: 1
+================================================================================
+
+🚩 FLAG 1: Stakeholder Misalignment | Emerging Risk | Unresolved Action Item [HIGH SEVERITY]
+   Status:    ❌ UNRESOLVED
+   Date:      2025.06.26
+   People:    Raised by Client Relationship Manager ➡️ Assigned to Developer 3 (Full-stack)
+   Summary:   The client (DivatKirály Kft.) flagged a GDPR compliance violation: the newsletter subscription checkbox is pre-checked by default during registration, which is illegal under GDPR. The fix was assigned to Developer 3 (Full-stack); however, the developer misunderstood the scope of the change and proposed also unchecking the Terms and Conditions checkbox — which the BA immediately corrected, clarifying that only the newsletter checkbox must be changed and that the T&C checkbox must remain checked by default. As of the last message, the BA has issued a corrective instruction, but no confirmation from the developer has been received that the correct, scoped fix has been implemented.
+   Evidence:  "The client indicated that due to GDPR, the newsletter subscription checkbox cannot be checked by default. It currently is. Please fix it."
+--------------------------------------------------------------------------------

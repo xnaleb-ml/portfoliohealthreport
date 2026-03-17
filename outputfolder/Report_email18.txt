@@ -1,0 +1,13 @@
+================================================================================
+PROJECT: DIVATKIRÁLY
+OVERALL HEALTH STATUS: AT RISK
+Total Attention Flags Detected: 1
+================================================================================
+
+🚩 FLAG 1: Scope Creep | Unresolved Action Item [MEDIUM SEVERITY]
+   Status:    ❌ UNRESOLVED
+   Date:      2025-06-28
+   People:    Raised by Client Relationship Manager ➡️ Assigned to Developer 1 (Backend)
+   Summary:   The Client Relationship Manager belatedly surfaced a client request from a prior meeting: search functionality should support SKU/item number lookups in addition to product names, which is not covered in the current specification. The BA confirmed this is a new out-of-scope requirement and the backend developer estimated roughly half a day of work. The PM instructed the BA to create a JIRA ticket, the Client Relationship Manager to notify the client this constitutes extra development, and the backend developer confirmed availability for next week — however, the thread ends without confirmation that the ticket was created, the client was formally notified, or that the scope/budget impact was acknowledged by the client.
+   Evidence:  "the client mentioned it would be good if the search worked not only for product names but also for item numbers (SKU). I forgot to mention this until now, sorry. I don't know how big of a job this is."
+--------------------------------------------------------------------------------

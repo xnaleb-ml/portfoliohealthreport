@@ -1,0 +1,50 @@
+From: Developer 3 (Full-stack) (developer3fullstack@anonymized.com)
+To: Business Analyst (BA), Developer 1 (Backend)
+Date: 2025.06.25 11:20
+Subject: Fwd: Re: DivatKirály - User registration process
+Hi everyone,
+The password strength check for registration is done. It now only allows proceeding if it contains lowercase, uppercase letters, and a number. The ticket is closed.
+Zsófi
+
+From: Business Analyst (BA) (businessanalystba@anonymized.com)
+To: Developer 3 (Full-stack), Developer 1 (Backend)
+Date: 2025.06.25 11:25
+Subject: Re: Fwd: Re: DivatKirály - User registration process
+Great, thanks Zsófi!
+
+From: Client Relationship Manager (clientrelationshipmanager@anonymized.com)
+To: Business Analyst (BA), Project Manager (PM), Developer 3 (Full-stack), Developer 1 (Backend)
+Date: 2025.06.26 15:03
+Subject: Fwd: Re: DivatKirály - User registration process
+Hi everyone,
+Sorry to write here, but this is urgent. The client indicated that due to GDPR, the newsletter subscription checkbox cannot be checked by default. It currently is. Please fix it.
+Thanks,
+[ANONYMIZED_NAME]
+
+Forwarded Message:
+From: DivatKirály Kft. ugyfel@divatkiralynagyker.hu
+Date: 2025.06.26 14:55
+Subject: Newsletter Subscription
+Dear [ANONYMIZED_NAME],
+We noticed that the newsletter subscription is automatically checked during registration. According to GDPR, this must be unchecked by default. Please modify it urgently.
+Sincerely,
+DivatKirály Kft.
+
+From: Developer 3 (Full-stack) (developer3fullstack@anonymized.com)
+To: Client Relationship Manager, Business Analyst (BA), Project Manager (PM), Developer 1 (Backend)
+Date: 2025.06.27 09:12
+Subject: Re: Fwd: Re: DivatKirály - User registration process
+Hi everyone,
+Okay, then I'll uncheck the Terms and Conditions acceptance checkbox too, so that's not checked by default either.
+Regards,
+Zsófi
+
+From: Business Analyst (BA) (businessanalystba@anonymized.com)
+To: Developer 3 (Full-stack), Client Relationship Manager, Project Manager (PM), Developer 1 (Backend)
+Date: 2025.06.27 09:18
+Subject: Re: Fwd: Re: DivatKirály - User registration process
+Hi Zsófi,
+STOP! Thanks for responding quickly, but the client only mentioned the newsletter subscription. The acceptance of the Terms and Conditions can remain (in fact, it must) with the current logic. Please only modify the newsletter checkbox!
+It's very important that we do exactly what is requested.
+Thanks,
+[ANONYMIZED_NAME]

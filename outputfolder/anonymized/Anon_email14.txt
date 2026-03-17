@@ -1,0 +1,45 @@
+From: Client Relationship Manager (clientrelationshipmanager@anonymized.com)
+To: Business Analyst (BA), Project Manager (PM)
+Date: 2025.05.26 10:15
+Subject: Re: DivatKirály webshop - Homepage design feedback
+Hi everyone,
+I'm sending over the client's (DivatKirály Kft.) feedback on the V2 homepage design. They like most things, but have a few small requests. Please see the attachment.
+Please review.
+Thanks,
+[ANONYMIZED_NAME]
+
+From: Business Analyst (BA) (businessanalystba@anonymized.com)
+To: Client Relationship Manager, Project Manager (PM), Developer 2 (Frontend)
+Date: 2025.05.26 14:30
+Subject: Re: DivatKirály webshop - Homepage design feedback
+Hi [ANONYMIZED_NAME],
+Thanks, I've reviewed it. Most are straightforward modifications, [ANONYMIZED_NAME] can do them quickly.
+I have one question regarding point 3 ("The 'Add to Cart' button should be more prominent"). Does the client want a different color instead of the current green, or just for it to be larger/bold? This isn't clear.
+Thanks,
+[ANONYMIZED_NAME]
+
+From: Project Manager (PM) (projectmanagerpm@anonymized.com)
+To: Business Analyst (BA), Client Relationship Manager, Developer 2 (Frontend)
+Date: 2025.05.27 09:05
+Subject: Re: DivatKirály webshop - Homepage design feedback
+Hi everyone,
+Thanks [ANONYMIZED_NAME]. [ANONYMIZED_NAME], please ask about the button color.
+What's more urgent though: they also complained about the logo size. [ANONYMIZED_NAME], could you enlarge it by 15% in the header and check if it breaks the mobile view? Let's show them this first.
+[ANONYMIZED_NAME]
+
+From: Developer 2 (Frontend) (developer2frontend@anonymized.com)
+To: Project Manager (PM), Business Analyst (BA), Client Relationship Manager
+Date: 2025.05.27 11:50
+Subject: Re: DivatKirály webshop - Homepage design feedback
+Hi [ANONYMIZED_NAME],
+I've enlarged the logo. Nothing is broken, I've sent the link from the test environment.
+Regards,
+[ANONYMIZED_NAME]
+
+From: Client Relationship Manager (clientrelationshipmanager@anonymized.com)
+To: Project Manager (PM), Business Analyst (BA), Developer 2 (Frontend)
+Date: 2025.05.28 16:20
+Subject: Re: DivatKirály webshop - Homepage design feedback
+Hi everyone,
+Great, the logo will be perfect for them this way, I've shown it to them. It can go live.
+[ANONYMIZED_NAME]

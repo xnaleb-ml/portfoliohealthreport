@@ -1,0 +1,13 @@
+================================================================================
+PROJECT: DIVATKIRÁLY WEBSHOP
+OVERALL HEALTH STATUS: AT RISK
+Total Attention Flags Detected: 1
+================================================================================
+
+🚩 FLAG 1: Unresolved Action Item | Stakeholder Misalignment [MEDIUM SEVERITY]
+   Status:    ❌ UNRESOLVED
+   Date:      2025-05-26
+   People:    Raised by Business Analyst (BA) ➡️ Assigned to Client Relationship Manager
+   Summary:   The client's feedback on point 3 — making the 'Add to Cart' button more prominent — is ambiguous: it is unclear whether they want a color change or a size/weight change. The Business Analyst flagged this and the Project Manager instructed the Client Relationship Manager to clarify it with the client. However, the thread ends with no confirmation that this clarification was ever obtained or acted upon, leaving the button requirement unresolved.
+   Evidence:  "Does the client want a different color instead of the current green, or just for it to be larger/bold? This isn't clear."
+--------------------------------------------------------------------------------

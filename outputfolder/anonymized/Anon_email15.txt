@@ -1,0 +1,50 @@
+From: Project Manager (PM) (projectmanagerpm@anonymized.com)
+To: Developer 1 (Backend), Business Analyst (BA)
+Date: 2025.06.09 11:00
+Subject: DivatKirály - Payment Gateway API Integration
+Hi everyone,
+The final API keys from Barion for the DivatKirály project have arrived. [ANONYMIZED_NAME], please start the integration based on the specification. [ANONYMIZED_NAME], you can assist him if any questions arise during the process.
+Thanks,
+[ANONYMIZED_NAME]
+
+From: Developer 1 (Backend) (developer1backend@anonymized.com)
+To: Project Manager (PM), Business Analyst (BA)
+Date: 2025.06.10 15:10
+Subject: DivatKirály - Payment Gateway API Integration
+Hi everyone,
+I've started, but their documentation on callback URL handling isn't entirely clear. Their V2 API states they return transactionId in POST, but the test endpoint gives it back to me as a query parameter in a GET request. [ANONYMIZED_NAME], how did we document this in the spec?
+Thanks,
+[ANONYMIZED_NAME]
+
+From: Project Manager (PM) (projectmanagerpm@anonymized.com)
+To: Developer 1 (Backend), Business Analyst (BA)
+Date: 2025.06.24 09:30
+Subject: DivatKirály - Payment Gateway API Integration
+Hi [ANONYMIZED_NAME],
+What's the status on the Barion integration? Any progress? We need to start testing soon.
+Regards,
+[ANONYMIZED_NAME]
+
+From: Developer 1 (Backend) (developer1backend@anonymized.com)
+To: Project Manager (PM), Business Analyst (BA)
+Date: 2025.06.24 09:35
+Subject: DivatKirály - Payment Gateway API Integration
+Hi [ANONYMIZED_NAME],
+Sorry, urgent server maintenance took up my time last week, this task got a bit sidelined. My question about the callback is still open, I can't proceed without it.
+[ANONYMIZED_NAME]
+
+From: Business Analyst (BA) (businessanalystba@anonymized.com)
+To: Developer 1 (Backend), Project Manager (PM)
+Date: 2025.06.24 10:02
+Subject: DivatKirály - Payment Gateway API Integration
+Hi [ANONYMIZED_NAME],
+Apologies, this somehow slipped my attention. In the spec, we recorded the POST method because the client provided this info based on a previous project. But if the test endpoint shows something different, then the documentation is probably the authoritative source. Please handle the GET request. I'll update the specification.
+Thanks for your patience!
+[ANONYMIZED_NAME]
+
+From: Developer 1 (Backend) (developer1backend@anonymized.com)
+To: Business Analyst (BA), Project Manager (PM)
+Date: 2025.06.27 14:00
+Subject: DivatKirály - Payment Gateway API Integration
+Ok, great, that's clear now. I'll continue.
+[ANONYMIZED_NAME]

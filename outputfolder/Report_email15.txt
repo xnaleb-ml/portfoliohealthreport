@@ -1,0 +1,13 @@
+================================================================================
+PROJECT: DIVATKIRÁLY
+OVERALL HEALTH STATUS: AT RISK
+Total Attention Flags Detected: 1
+================================================================================
+
+🚩 FLAG 1: Blocker | Resource Bottleneck | Timeline Delay | Unresolved Action Item [HIGH SEVERITY]
+   Status:    ❌ UNRESOLVED
+   Date:      2025-06-10
+   People:    Raised by Developer 1 (Backend) ➡️ Assigned to Business Analyst (BA)
+   Summary:   Developer 1 (Backend) raised a critical ambiguity on 2025.06.10 regarding a discrepancy in the Barion V2 API callback URL handling — the spec documented a POST method returning transactionId, while the live test endpoint returned it as a GET query parameter. The question went unanswered for 14 days, during which the developer was also pulled away by urgent server maintenance, causing the integration task to stall entirely. The BA eventually responded on 2025.06.24, acknowledging the oversight and directing the developer to follow the GET approach and promising a spec update. The developer acknowledged and resumed work on 2025.06.27, however neither a confirmed spec update nor testing progress has been documented, and the PM's own status check on 2025.06.24 revealed no awareness of the open blocker — indicating a monitoring gap.
+   Evidence:  "Their V2 API states they return transactionId in POST, but the test endpoint gives it back to me as a query parameter in a GET request... My question about the callback is still open, I can't proceed without it."
+--------------------------------------------------------------------------------

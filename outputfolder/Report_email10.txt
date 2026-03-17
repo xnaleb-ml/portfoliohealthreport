@@ -1,0 +1,20 @@
+================================================================================
+PROJECT: USER PROFILE PAGE - DATA MODIFICATION FLOW
+OVERALL HEALTH STATUS: AT RISK
+Total Attention Flags Detected: 2
+================================================================================
+
+🚩 FLAG 1: Scope Creep | Unresolved Action Item [MEDIUM SEVERITY]
+   Status:    ❌ UNRESOLVED
+   Date:      2025-07-02
+   People:    Raised by Business Analyst (BA) ➡️ Assigned to Project Manager (PM)
+   Summary:   The BA raised a question about sending a confirmation email after a password change, noting this feature is absent from the specification but desirable for security. Both developers agreed it should be implemented, and the PM added it to the to-do list. However, no formal scope approval, effort estimation, or sprint assignment was confirmed, leaving this as an unplanned addition pending proper scoping.
+   Evidence:  "On the profile page, should we send a confirmation email to the user after a password change? The specification doesn't mention it, but it would be useful from a security perspective."
+--------------------------------------------------------------------------------
+🚩 FLAG 2: Resource Bottleneck | Unresolved Action Item [MEDIUM SEVERITY]
+   Status:    ❌ UNRESOLVED
+   Date:      2025-07-03
+   People:    Raised by Developer 2 (Medior) ➡️ Assigned to Developer 2 (Medior)
+   Summary:   Developer 2 flagged that the test environment is still using placeholder images because the homepage banner assets have not yet been received from the client. The PM redirected the conversation to a separate thread and identified a specific person handling creative assets. Developer 2 acknowledged and committed to following up, but no confirmation of asset delivery or a timeline was established within this thread.
+   Evidence:  "have we received the homepage banner images from the client yet? The test environment still has placeholder images, and it would be good to see it with the real content."
+--------------------------------------------------------------------------------

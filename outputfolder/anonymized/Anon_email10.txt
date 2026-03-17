@@ -1,0 +1,51 @@
+Subject: User Profile Page - Data Modification Flow
+Date: 2025.07.02 16:20
+From: Business Analyst (BA) (businessanalystba@anonymized.com)
+To: Developer 2 (Medior) (developer2medior@anonymized.com), Developer 3 (Junior) (developer3junior@anonymized.com)
+Cc: Project Manager (PM) (projectmanagerpm@anonymized.com)
+
+Hi everyone,
+On the profile page, should we send a confirmation email to the user after a password change? The specification doesn't mention it, but it would be useful from a security perspective.
+Thanks,
+[ANONYMIZED_NAME]
+
+Subject: Re: User Profile Page - Data Modification Flow
+Date: 2025.07.03 09:12
+From: Developer 3 (Junior) (developer3junior@anonymized.com)
+To: Business Analyst (BA) (businessanalystba@anonymized.com), Developer 2 (Medior) (developer2medior@anonymized.com)
+Cc: Project Manager (PM) (projectmanagerpm@anonymized.com)
+
+Hi [ANONYMIZED_NAME],
+I think it's a good idea, we should definitely send an email. It's not a big technical effort to implement.
+Regards,
+[ANONYMIZED_NAME]
+
+Subject: Re: User Profile Page - Data Modification Flow
+Date: 2025.07.03 10:30
+From: Developer 2 (Medior) (developer2medior@anonymized.com)
+To: Developer 3 (Junior) (developer3junior@anonymized.com), Business Analyst (BA) (businessanalystba@anonymized.com)
+Cc: Project Manager (PM) (projectmanagerpm@anonymized.com)
+
+Okay, I support it.
+Also: [ANONYMIZED_NAME], have we received the homepage banner images from the client yet? The test environment still has placeholder images, and it would be good to see it with the real content.
+Thanks,
+[ANONYMIZED_NAME]
+
+Subject: Re: User Profile Page - Data Modification Flow
+Date: 2025.07.03 10:45
+From: Project Manager (PM) (projectmanagerpm@anonymized.com)
+To: Developer 2 (Medior) (developer2medior@anonymized.com), Developer 3 (Junior) (developer3junior@anonymized.com), Business Analyst (BA) (businessanalystba@anonymized.com)
+
+Hi everyone,
+[ANONYMIZED_NAME], please don't ask questions about the banners in this thread, as the information will get lost. [ANONYMIZED_NAME] is handling the creative assets, please start a separate conversation with him about this.
+Let's add the email after password modification to the to-do list.
+Thanks,
+[ANONYMIZED_NAME]
+
+Subject: Re: User Profile Page - Data Modification Flow
+Date: 2025.07.03 10:50
+From: Developer 2 (Medior) (developer2medior@anonymized.com)
+To: Project Manager (PM) (projectmanagerpm@anonymized.com), Developer 3 (Junior) (developer3junior@anonymized.com), Business Analyst (BA) (businessanalystba@anonymized.com)
+
+Apologies, you're right. I'll write to [ANONYMIZED_NAME].
+[ANONYMIZED_NAME]

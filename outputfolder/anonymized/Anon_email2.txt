@@ -1,0 +1,46 @@
+From: Project Manager (PM) projectmanagerpm@anonymized.com
+To: Senior Developer seniordeveloper@anonymized.com, Frontend Developer frontenddeveloper@anonymized.com, Junior Developer juniordeveloper@anonymized.com
+Date: Mon, 30 Jun 2025 11:00:00 +0200
+Subject: Project Phoenix - Weekly Status Reports EOD
+
+Hi team,
+Please send your usual weekly status reports by end of day (EOD) in a sentence or two: what you've been working on this week, and if there are any blockers.
+Thanks,
+[ANONYMIZED_NAME]
+
+From: Frontend Developer frontenddeveloper@anonymized.com
+To: Project Manager (PM) projectmanagerpm@anonymized.com, Senior Developer seniordeveloper@anonymized.com, Junior Developer juniordeveloper@anonymized.com
+Date: Mon, 30 Jun 2025 11:01:00 +0200
+Subject: Project Phoenix - Weekly Status Reports EOD
+
+Hi Zsuzsi,
+I spoke with the nearby restaurant about tomorrow's lunch. They have a pretty good weekly menu, option B is fried chicken with mashed potatoes. I think Pisti would love that, and menu A (tomato soup, cottage cheese pasta) would be good for the others. What do you think, should we go for it? Then I'll book for 5 people at 12:30 PM.
+Kisses,
+[ANONYMIZED_NAME]
+
+From: Frontend Developer frontenddeveloper@anonymized.com
+To: Project Manager (PM) projectmanagerpm@anonymized.com, Senior Developer seniordeveloper@anonymized.com, Junior Developer juniordeveloper@anonymized.com
+Date: Mon, 30 Jun 2025 11:03:00 +0200
+Subject: Project Phoenix - Weekly Status Reports EOD
+
+Oh, my apologies, this was definitely not meant for here!! So sorry!
+
+From: Senior Developer seniordeveloper@anonymized.com
+To: Project Manager (PM) projectmanagerpm@anonymized.com, Frontend Developer frontenddeveloper@anonymized.com, Junior Developer juniordeveloper@anonymized.com
+Date: Mon, 30 Jun 2025 11:05:00 +0200
+Subject: Project Phoenix - Weekly Status Reports EOD
+
+Hi [ANONYMIZED_NAME],
+I agree with the fried chicken part. I'll send the report shortly.
+Best,
+Pisti
+
+From: Project Manager (PM) projectmanagerpm@anonymized.com
+To: Senior Developer seniordeveloper@anonymized.com, Frontend Developer frontenddeveloper@anonymized.com, Junior Developer juniordeveloper@anonymized.com
+Date: Mon, 30 Jun 2025 11:10:00 +0200
+Subject: Project Phoenix - Weekly Status Reports EOD
+
+No worries, [ANONYMIZED_NAME], it happens. :) A team lunch is a great idea, but please organize that in a different thread.
+In the meantime, I'm really looking forward to those reports by EOD.
+Thanks!
+[ANONYMIZED_NAME]
